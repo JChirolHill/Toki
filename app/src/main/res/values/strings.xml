@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Toki</string>
+    <string name="todayMission">Today\'s Mission: </string>
+    <string name="doneBtn">Done!</string>
+    <string name="myProgressBtn">My Progress</string>
+    <string name="askTokiBtn">Ask Toki</string>
+    <string name="askTokiDescr">Ask Toki any question you have about language learning</string>
+    <string name="grammar">Grammar</string>
+    <string name="listening">Listening</string>
+    <string name="reading">Reading</string>
+    <string name="writing">Writing</string>
+    <string name="vocab">Vocab</string>
+    <string name="progressDescr">Listen to past recordings to see how much you\'ve progressed</string>
+    <string name="recording">Recording</string>
+    <string name="missionName">Mission Name</string>
+    <string name="recordBtn">Record</string>
+    <string name="signin">Sign In</string>
+    <string name="loadAnotherMission">Load Another Mission</string>
+    <string name="oneMoment">Logging you in...</string>
+    <string name="completed">Congratulations!\nTask Completed</string>
+    <string name="recommendedMission">Recommended for You:</string>
+    <string name="tokiname">Toki</string>
+    <string name="appDescr">Ever wanted to learn a language on your own, but didn\'t know how?\n\nWith simple missions, Toki guides you in the best ways to learn your target language.</string>
+</resources>

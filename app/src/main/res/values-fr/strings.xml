@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Toki</string>
+    <string name="todayMission">Mission du Jour: </string>
+    <string name="doneBtn">Fini!</string>
+    <string name="myProgressBtn">Mon Progrès</string>
+    <string name="askTokiBtn">Demande à Toki</string>
+    <string name="askTokiDescr">Pose une question à Toki sur comment apprendre les langues</string>
+    <string name="grammar">Grammaire</string>
+    <string name="listening">L\'écoute</string>
+    <string name="reading">Lire</string>
+    <string name="writing">Ecrire</string>
+    <string name="vocab">Vocabulaire</string>
+    <string name="progressDescr">Ecoutez les enregistrements pour voire comme vous avez appri</string>
+    <string name="recording">Enregistrer</string>
+    <string name="missionName">Nom de la Mission</string>
+    <string name="recordBtn">Enregistrer</string>
+    <string name="signin">Connectez vous</string>
+    <string name="loadAnotherMission">Charger une autre mission</string>
+    <string name="oneMoment">En train de vous connecter...</string>
+    <string name="completed">Félicitations!\nMission Complète!</string>
+    <string name="recommendedMission">Recommender pour vous:</string>
+    <string name="tokiname">Toki</string>
+    <string name="appDescr">Voullez vous apprendre une langue tout seule, mais vous ne savez pas comment?  Avec des simples missions, Toki vous guide vers les meilleurs façons d\'apprendre la langue que vous voulez.</string>
+</resources>
